@@ -23,3 +23,5 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_introduction: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
