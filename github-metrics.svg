@@ -32,20 +32,20 @@ At work I am @mariadb-mikenabhan</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 960kb of code in 648 edited files across 235 commits</small>
+                <small>estimation from 955kb of code in 637 edited files across 231 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="315.42579161195374" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="315.42579161195374" y="0" width="63.062456486679416" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="378.4882480986331" y="0" width="51.918287491958296" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.40653559059143" y="0" width="13.848119783909544" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="444.254655374501" y="0" width="8.306439530805227" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="452.5610949053062" y="0" width="3.5633774268315253" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="456.12447233213777" y="0" width="2.2336984780252225" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.35817081016296" y="0" width="1.641829189837051" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.81388067489996" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="309.81388067489996" y="0" width="65.51034047111168" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="375.32422114601167" y="0" width="53.933590281147296" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.25781142715897" y="0" width="14.385659748606166" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="443.6434711757651" y="0" width="8.628869093938535" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="452.27234026970365" y="0" width="3.7016964048667504" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.9740366745704" y="0" width="2.3204035484432075" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.2944402230136" y="0" width="1.7055597769863866" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2122,6 +2122,11 @@ At work I am @mariadb-mikenabhan</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
