@@ -32,19 +32,20 @@ At work I am @mariadb-mikenabhan</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 563kb of code in 426 edited files across 183 commits</small>
+                <small>estimation from 955kb of code in 637 edited files across 231 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.27235713438654" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="390.27235713438654" y="0" width="45.41630980459331" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="435.6886669389799" y="0" width="11.94049517083262" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.6291621098125" y="0" width="5.327764088914656" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="452.95692619872716" y="0" width="3.3397019487963315" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.2966281475235" y="0" width="2.4547718498412237" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.75139999736473" y="0" width="1.2486000026352893" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.81388067489996" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="309.81388067489996" y="0" width="65.51034047111168" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="375.32422114601167" y="0" width="53.933590281147296" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.25781142715897" y="0" width="14.385659748606166" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="443.6434711757651" y="0" width="8.628869093938535" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="452.27234026970365" y="0" width="3.7016964048667504" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.9740366745704" y="0" width="2.3204035484432075" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.2944402230136" y="0" width="1.7055597769863866" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -67,6 +68,18 @@ At work I am @mariadb-mikenabhan</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dockerfile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Jinja
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Ruby
@@ -82,12 +95,6 @@ At work I am @mariadb-mikenabhan</div>
                             <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PowerShell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Dockerfile
                     </div>
                 </div>
             </section>
@@ -2090,6 +2097,11 @@ At work I am @mariadb-mikenabhan</div>
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
