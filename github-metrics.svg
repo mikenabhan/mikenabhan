@@ -15,10 +15,8 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">DevOps Engineer
-Passionate about infrastructure, security, and automation.
-
-At work I am @mariadb-mikenabhan</div>
+                        <div class="introduction">Senior Site Reliability Engineer @ Akamai
+Passionate about infrastructure, security, and automation.</div>
                     </section>
                 </div>
             </section>
@@ -2102,6 +2100,11 @@ At work I am @mariadb-mikenabhan</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
